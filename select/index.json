@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "季節は次々死んでいく -東京喰種トーキョーグール√A　Edit-",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-15T17:54:24.343111Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく -東京喰種トーキョーグール√A Edit-",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_季節は次々死んでいく_-東京喰種トーキョーグール√A_Edit-_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく 東京喰種トーキョーグール√A Edit",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_季節は次々死んでいく_東京喰種トーキョーグール√A_Edit_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "季節は次々死んでいく -東京喰種トーキョーグール√A Edit",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_季節は次々死んでいく_-東京喰種トーキョーグール√A_Edit_amazarashi.txt"
+    }
+  ]
+}
